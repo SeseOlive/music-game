@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/music-game/static/css/main.d4b57e7e.css",
-    "main.js": "/music-game/static/js/main.7db9016a.js",
+    "main.css": "/music-game/static/css/main.40e5723e.css",
+    "main.js": "/music-game/static/js/main.cbc185c4.js",
     "static/js/453.43f6fb34.chunk.js": "/music-game/static/js/453.43f6fb34.chunk.js",
     "index.html": "/music-game/index.html",
-    "main.d4b57e7e.css.map": "/music-game/static/css/main.d4b57e7e.css.map",
-    "main.7db9016a.js.map": "/music-game/static/js/main.7db9016a.js.map",
+    "main.40e5723e.css.map": "/music-game/static/css/main.40e5723e.css.map",
+    "main.cbc185c4.js.map": "/music-game/static/js/main.cbc185c4.js.map",
     "453.43f6fb34.chunk.js.map": "/music-game/static/js/453.43f6fb34.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4b57e7e.css",
-    "static/js/main.7db9016a.js"
+    "static/css/main.40e5723e.css",
+    "static/js/main.cbc185c4.js"
   ]
 }
